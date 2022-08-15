@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Candace.png"><SubTexture name="Candace singDOWN0000" x="2208" y="0" width="738" height="1116" frameX="-212" frameY="-131" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace singDOWN0001" x="2208" y="0" width="738" height="1116" frameX="-212" frameY="-131" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace singDOWN0002" x="738" y="0" width="749" height="1121" frameX="-190" frameY="-129" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace singDOWN0003" x="1487" y="0" width="721" height="1120" frameX="-212" frameY="-127" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace Idle0000" x="707" y="1122" width="771" height="1104" frameX="-212" frameY="-143" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace Idle0001" x="1748" y="2234" width="705" height="1102" frameX="-212" frameY="-145" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace Idle0002" x="2453" y="2234" width="705" height="1102" frameX="-212" frameY="-145" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace Idle0003" x="3744" y="1100" width="745" height="1099" frameX="-187" frameY="-148" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace Idle0004" x="3744" y="2199" width="745" height="1099" frameX="-187" frameY="-148" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace Idle0005" x="1062" y="3338" width="778" height="1098" frameX="-212" frameY="-154" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace Idle0006" x="1840" y="3338" width="778" height="1098" frameX="-212" frameY="-154" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace Idle0007" x="1478" y="1122" width="771" height="1104" frameX="-212" frameY="-143" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace singRIGHT0000" x="798" y="2234" width="950" height="1103" frameX="-212" frameY="-144" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace singRIGHT0001" x="3744" y="0" width="1003" height="1100" frameX="-211" frameY="-148" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace singRIGHT0002" x="2618" y="3338" width="1021" height="1098" frameX="-211" frameY="-150" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace singRIGHT0003" x="0" y="3338" width="1062" height="1100" frameX="-212" frameY="-148" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace singUP0000" x="2946" y="0" width="798" height="1104" frameX="-212" frameY="-143" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace singUP0001" x="2946" y="1104" width="747" height="1104" frameX="-212" frameY="-143" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace singUP0002" x="0" y="1122" width="707" height="1112" frameX="-212" frameY="-135" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace singUP0003" x="0" y="0" width="738" height="1122" frameX="-212" frameY="-143" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace singUP0004" x="0" y="2234" width="798" height="1104" frameX="-212" frameY="-143" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace singLEFT0000" x="3639" y="3338" width="814" height="1093" frameX="-97" frameY="-154" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace singLEFT0001" x="5504" y="0" width="846" height="1090" frameX="-117" frameY="-157" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace singLEFT0002" x="0" y="4438" width="855" height="1079" frameX="-108" frameY="-168" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Candace singLEFT0003" x="4747" y="0" width="757" height="1093" frameX="-154" frameY="-154" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

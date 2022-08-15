@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blackvanessa.png"><SubTexture name="blackvanessa singDOWN0000" x="449" y="2321" width="639" height="1054" frameX="-373" frameY="-166" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa singDOWN0001" x="1747" y="2321" width="632" height="1049" frameX="-380" frameY="-171" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa singDOWN0002" x="1088" y="2321" width="659" height="1050" frameX="-353" frameY="-170" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa singDOWN0003" x="3427" y="1041" width="676" height="1039" frameX="-336" frameY="-181" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa singLEFT0000" x="2379" y="2321" width="822" height="1045" frameX="-310" frameY="-173" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa singLEFT0001" x="3427" y="0" width="811" height="1041" frameX="-312" frameY="-177" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa singLEFT0002" x="3427" y="2080" width="783" height="1038" frameX="-321" frameY="-180" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa singLEFT0003" x="4238" y="0" width="783" height="1038" frameX="-321" frameY="-180" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa singRIGHT0000" x="1615" y="0" width="885" height="1120" frameX="-395" frameY="-100" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa singRIGHT0001" x="0" y="1212" width="885" height="1109" frameX="-395" frameY="-111" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa singRIGHT0002" x="885" y="1212" width="885" height="1102" frameX="-395" frameY="-121" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa singUP0000" x="1770" y="1212" width="535" height="1098" frameX="-416" frameY="-122" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa singUP0001" x="1078" y="0" width="537" height="1150" frameX="-414" frameY="-70" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa singUP0002" x="535" y="0" width="543" height="1182" frameX="-408" frameY="-38" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa singUP0003" x="0" y="0" width="535" height="1212" frameX="-416" frameY="-8" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa Idle0000" x="2978" y="0" width="449" height="1071" frameX="-416" frameY="-149" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa Idle0001" x="2978" y="1071" width="449" height="1071" frameX="-416" frameY="-149" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa Idle0002" x="2500" y="0" width="478" height="1077" frameX="-387" frameY="-143" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa Idle0003" x="0" y="2321" width="449" height="1069" frameX="-416" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="blackvanessa Idle0004" x="2500" y="1077" width="449" height="1072" frameX="-416" frameY="-148" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

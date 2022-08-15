@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="glitchphineas.png"><SubTexture name="glitchphineas singUP0000" x="990" y="2167" width="815" height="1074" frameX="-288" frameY="-145" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="glitchphineas singUP0001" x="3796" y="0" width="884" height="1068" frameX="-231" frameY="-156" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="glitchphineas singUP0002" x="1821" y="3243" width="949" height="1050" frameX="-165" frameY="-174" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="glitchphineas singRIGHT0000" x="3796" y="2130" width="844" height="1061" frameX="-203" frameY="-177" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="glitchphineas singRIGHT0001" x="2770" y="3243" width="840" height="1046" frameX="-203" frameY="-192" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="glitchphineas singRIGHT0002" x="4680" y="0" width="878" height="1029" frameX="-165" frameY="-209" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="glitchphineas singLEFT0000" x="1803" y="0" width="986" height="1078" frameX="-76" frameY="-168" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="glitchphineas singLEFT0001" x="2789" y="1078" width="986" height="1077" frameX="-76" frameY="-169" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="glitchphineas singLEFT0002" x="0" y="2167" width="990" height="1076" frameX="-72" frameY="-170" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="glitchphineas singLEFT0003" x="1805" y="2167" width="1278" height="1072" frameX="0" frameY="-174" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="glitchphineas singDOWN0000" x="0" y="0" width="885" height="1089" frameX="-207" frameY="-138" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="glitchphineas singDOWN0001" x="885" y="0" width="918" height="1085" frameX="-174" frameY="-152" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="glitchphineas singDOWN0002" x="918" y="3243" width="903" height="1057" frameX="-174" frameY="-180" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="glitchphineas Idle0000" x="0" y="1089" width="1007" height="1078" frameX="-76" frameY="-168" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="glitchphineas Idle0001" x="1007" y="1089" width="1007" height="1078" frameX="-76" frameY="-168" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="glitchphineas Idle0002" x="3610" y="3243" width="944" height="1043" frameX="-116" frameY="-186" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="glitchphineas Idle0003" x="3796" y="1068" width="858" height="1062" frameX="-217" frameY="-157" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="glitchphineas Idle0004" x="0" y="3243" width="918" height="1059" frameX="-170" frameY="-176" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="glitchphineas Idle0005" x="2789" y="0" width="1007" height="1078" frameX="-76" frameY="-168" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>
