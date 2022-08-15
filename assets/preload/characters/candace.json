@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				430,
+				270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Candace singDOWN"
+		},
+		{
+			"offsets": [
+				410,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Candace singLEFT"
+		},
+		{
+			"offsets": [
+				340,
+				309
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Candace singRIGHT"
+		},
+		{
+			"offsets": [
+				410,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Candace singUP"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				410,
+				260
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "Candace Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/candace",
+	"position": [
+		60,
+		0
+	],
+	"healthicon": "candace",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		137,
+		48
+	],
+	"camera_position": [
+		-220,
+		50
+	],
+	"sing_duration": 5.7,
+	"scale": 0.6
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ferb Idle"
+		},
+		{
+			"offsets": [
+				5,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ferb singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ferb singRIGHT"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ferb singLEFT"
+		},
+		{
+			"offsets": [
+				14,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ferb singDOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ferb",
+	"position": [
+		-300,
+		-210
+	],
+	"healthicon": "ferb",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		244,
+		0
+	],
+	"camera_position": [
+		-270,
+		380
+	],
+	"sing_duration": 4,
+	"scale": 0.500000000000005
+}

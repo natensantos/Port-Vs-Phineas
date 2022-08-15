@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				410,
+				260
+			],
+			"loop": true,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "glitchphineas Idle"
+		},
+		{
+			"offsets": [
+				430,
+				270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "glitchphineas singDOWN"
+		},
+		{
+			"offsets": [
+				410,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "glitchphineas singLEFT"
+		},
+		{
+			"offsets": [
+				410,
+				260
+			],
+			"loop": false,
+			"fps": 27,
+			"anim": "singUP",
+			"indices": [],
+			"name": "glitchphineas singUP"
+		},
+		{
+			"offsets": [
+				340,
+				309
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "glitchphineas singRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/glitchphineas",
+	"position": [
+		-20,
+		60
+	],
+	"healthicon": "phineas",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		217,
+		40
+	],
+	"camera_position": [
+		-50,
+		100
+	],
+	"sing_duration": 5.7,
+	"scale": 0.5
+}
